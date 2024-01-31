@@ -1,0 +1,171 @@
+*
+
+{
+	margin:0px;
+	padding:0px;
+	
+}
+#profile
+{
+	height:695px;
+	width:1366px;
+	//background-color:red;
+	//border:.5px solid;
+}
+
+a{
+	margin:200px 0px;
+}
+
+
+#admin
+{
+	height:695px;
+	width: 200px;
+	//border:.5px solid;
+	background-color:black;
+	
+	float:left;
+	
+}
+.adminlogo
+{
+	height:80px;
+	width:80px;
+	border:0.5px solid;
+	background-color:yellow;
+	margin:0px auto;
+	border-radius:50px;
+	margin-top:3px;
+}
+.date
+{
+	height:40px;
+	width:200px;
+	border:.5px solid;
+	border-radius:20px;
+	text-align:center;
+	background-color:black;
+	
+}
+#outer
+{
+	height:695px;
+	width:1165px;
+	//border:.5px solid white;
+	//background-color:blue;
+	float:left;
+}
+#menu
+{
+height:60px;
+width:1165px ;
+border:.5px solid white;
+background-color:green; 	
+	opacity:.8;
+}
+
+
+	
+
+//.administrator
+{
+	height:38px;
+	width:38px;
+	//border:.5px solid;
+	background-color:yellow;
+	border-radius:30px;
+	margin-right:60px;
+	float:right;
+	
+}
+
+#admin1
+{
+	height:5px;
+	width:auto;
+}
+#rohit
+{
+	height:634px;
+	width:1164px;
+	border:.5px solid white;
+	background-color:lightgray;
+	 //float:left;
+	 //margin-top:40px;
+}
+.collom  
+{
+	
+	height:250px;
+	width:260px;
+	border:.1px solid transparent;
+	margin:0px 10px 0px 20px;
+	float:left;
+	border-radius:200px;
+	text-align:center;
+	
+}
+
+.collom:hover  
+{
+	
+	height:250px;
+	width:260px;
+	border:.1px solid transparent;
+	margin:0px 10px 0px 20px;
+	float:left;
+	border-radius:200px;
+	text-align:center;
+	background-color:#e6e6eb;
+}
+.row
+{
+	height:300px;
+	width:1163px;
+	//border:.5px solid;
+	margin:13px 0px 0px 0px;
+	//background-color:red;
+}
+.welcome
+{
+	height:50px;
+	width:200px;
+	border:.1px solid red;
+	border-radius:30px;
+	text-align:center;
+}
+.log
+{
+	height:50px;
+	width:200px;
+	//border:0.5px solid yellow;
+	background-color:blue;
+	border-radius:30px;
+	text-align:center;
+	
+}
+
+.log:hover
+{
+	background-color:green;
+}
+.change
+{
+	height:50px;
+	width:200px;
+	//border:0.5px solid yellow;
+	background-color:blue;
+	border-radius:30px;
+	margin-top:10px;
+	text-align:center;
+	
+}
+.change:hover
+{
+	background-color:green;
+}
+a
+{
+	text-decoration:none;
+}
